@@ -1,4 +1,4 @@
-# Contributing to [TF-Scalable-Classifier]
+# Contributing to TF-Scalable-Classifier
 
 First off, thanks for taking the time to contribute! This project follows standard Software Engineering best practices to ensure code quality.
 
